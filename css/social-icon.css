@@ -1,0 +1,12 @@
+.social-icon span#static-icon {
+display:inline;
+}
+.social-icon:hover span#static-icon {
+display:none;
+}
+.social-icon span#hover-icon {
+display:none;
+}
+.social-icon:hover span#hover-icon {
+display:inline;
+}
